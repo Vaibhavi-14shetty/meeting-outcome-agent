@@ -1,0 +1,23 @@
+
+# Secrets
+.env
+**/.env
+!.env.example
+
+# Python
+**/venv/
+**/.venv/
+**/__pycache__/
+*.py[cod]
+
+# Node.js
+**/node_modules/
+**/dist/
+
+# Local environment files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
