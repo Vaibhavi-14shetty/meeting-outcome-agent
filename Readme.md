@@ -96,7 +96,7 @@ Create a file named `.env` inside the `backend` directory.
 Add your Gemini API key:
 
 ```env
-GEMINI_API_KEY=your_actual_gemini_api_key
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
 ```
 
 Replace the placeholder with your own valid API key. Keep this file private and never commit it to GitHub.
